@@ -15,6 +15,6 @@ Through perseverance and dedication, Olgica developed an impressive array of str
 
 Imagine a world where programmers can fearlessly collaborate, innovate, and ideate without the burden of anxiety or stress. Picture a workplace where empathy, exploration, innovation, higher purpose, and fearless, laser-focused action are the foundation, fostering creativity and unleashing the full potential of every team member. That’s the world Olgica envisions.
 
-Today, Olgica proudly holds and creates through several impactful roles – a dynamic CPQC Coach (Certified Positive Intelligence Coach), a Software Engineer, and a Technical Agile Coach. In parallel, Olgica explores the world of Reiki.
+Today, Olgica proudly holds and creates through several impactful roles – a CPQC Coach (Certified Positive Intelligence Coach), a Software Engineer, and a Technical Agile Coach. In parallel, Olgica explores the world of Reiki.
 
 “In today’s rapidly changing world, it is inevitable that we must return to ourselves rather than escaping through work. This is the key to unlocking and realizing our full potential.”

@@ -1,7 +1,7 @@
 # A Programmer’s Resistance to the Test-first Approach
 
 ## Talk Resources
-* [Slides](./Slides/tdd-resistance-olgica-djuric.pdf)
+* [Slides](./Slides/tdd-resistance-olgica-djuric.pptx)
 
 
 ## Olgica Djuric<!-- include: olgica_djuric_bio.md -->

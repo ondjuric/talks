@@ -3,7 +3,7 @@
 ## Talk Resources
 * [Slides PDF](./Slides/tdd-resistance-olgica-djuric.pdf)
 * [Slides PPT](./Slides/tdd-resistance-olgica-djuric.pptx)
-* [Reflection Exampels](./Slides/tdd-resistance-reflection.pdf)
+* [Reflection Examples](./Slides/tdd-resistance-reflection.pdf)
 
 
 ## Olgica Djuric<!-- include: olgica_djuric_bio.md -->
